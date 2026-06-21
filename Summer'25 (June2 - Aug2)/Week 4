@@ -1,0 +1,16 @@
+Feature Engineering
+
+References:
+
+https://gayathri-siva.medium.com/dimensionality-reduction-feature-selection-and-feature-extraction-28c732818e96 - Dimensionality Reduction, Feature Selection, and Feature Extraction
+https://medium.com/@datasciencewizards/a-guide-to-data-splitting-in-machine-learning-49a959c95fa1 - A Guide to Data Splitting in Machine Learning
+https://medium.com/analytics-vidhya/machine-learning-metrics-in-simple-terms-d58a9c85f9f6 - Machine Learning Metrics in Simple Terms
+https://www.kaggle.com/code/junaiddata35/titanic-dataset-exploratory-data-analysis-eda - Titanic Dataset Exploratory Data Analysis (EDA)
+
+Assignment-4
+GitHub: https://github.com/shrav-jally/Assignment-4
+
+Topic: Exploratory Data Analysis (EDA)
+Task: Conduct an in-depth Exploratory Data Analysis on a complex dataset. Focus on understanding data distributions, 
+identifying missing values, detecting outliers, and uncovering relationships between variables. Utilize visualizations like histograms, 
+box plots, and heatmaps to support your findings.
