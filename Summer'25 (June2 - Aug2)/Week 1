@@ -1,0 +1,25 @@
+Introduction to Python
+
+References:
+
+https://www.youtube.com/watch?v=Y8Tko2YC5hA
+https://www.youtube.com/watch?v=C3bOxcILGu4
+https://youtu.be/2fXAmsLIBcM?si=QMbYbC-Gx5gwtFJl
+https://www.w3schools.com/python/python_lists.asp
+https://www.w3schools.com/python/python_tuples.asp
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.w3schools.com/python/python_sets.asp
+https://www.w3schools.com/python/python_strings.asp
+https://www.w3schools.com/python/python_conditions.asp
+https://www.w3schools.com/python/python_while_loops.asp
+https://www.w3schools.in/python/break-and-continue
+https://www.w3schools.com/python/python_try_except.asp
+https://www.w3schools.com/python/python_functions.asp
+https://www.w3schools.com/python/python_modules.asp
+https://www.w3schools.com/python/python_modules.asp
+
+Assignment-1
+GitHub: https://github.com/shrav-jally/Assignment-1
+
+Topic: Print the Triangle pattern
+Task: Create lower triangular, upper triangular and pyramid containing the "*" character.
