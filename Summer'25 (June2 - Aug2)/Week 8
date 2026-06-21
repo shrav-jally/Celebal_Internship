@@ -1,0 +1,20 @@
+Gen AI:
+
+References:
+
+https://www.ibm.com/think/topics/generative-ai - What is Generative AI
+https://huggingface.co/learn/llm-course/chapter1/1 - Foundation Models
+https://www.geeksforgeeks.org/artificial-intelligence/large-language-model-llm/ - Understanding LLMs
+https://www.promptingguide.ai/ - Prompt Engineering
+https://python.langchain.com/docs/introduction/ - LangChain Introduction
+https://dev.to/jamesbmour/part-3-building-powerful-chains-and-agents-in-langchain-5g04 - Agents and Chains
+https://www.pinecone.io/learn/retrieval-augmented-generation/ - What is RAG
+https://python.langchain.com/docs/tutorials/rag/ - Implementing RAG with LangChain
+https://huggingface.co/docs/transformers/training - Fine-tuning LLMs
+https://docs.pinecone.io/guides/get-started/quickstart - Vector Databases
+https://www.kaggle.com/datasets/sonalisingh1411/loan-approval-prediction?select=Training+Dataset.csv - Loan Approval Prediction Dataset
+
+Assignment-8
+Topic: RAG Q&A chatbot
+Task: RAG Q&A chatbot using document retrieval and generative AI for intelligent response generation (can use any light model from hugging face or a license llm 
+(openai, claude, grok, gemini) if free credits available).
