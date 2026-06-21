@@ -1,0 +1,25 @@
+Object Oriented Programming with Python
+
+References:
+
+https://www.w3schools.com/python/python_classes.asp
+https://www.w3schools.com/python/python_inheritance.asp
+https://www.geeksforgeeks.org/python/encapsulation-in-python/
+https://www.w3schools.com/python/python_ref_functions.asp
+https://www.w3schools.com/python/python_file_write.asp
+https://www.w3schools.com/python/python_file_handling.asp
+https://www.w3schools.com/python/python_json.asp
+https://docs.python.org/3/tutorial/venv.html
+https://www.w3schools.com/python/python_pip.asp
+https://pip.pypa.io/en/stable/cli/pip_freeze/
+https://www.tutorialspoint.com/flask/index.htm
+https://www.w3schools.com/django/
+
+Assignment-2
+GitHub: https://github.com/shrav-jally/Assignment-2
+
+Topic: Implement a Linked List in Python Using OOP and Delete the Nth Node
+Task: Create a Python program that implements a singly linked list using Object-Oriented Programming (OOP) principles. 
+Your implementation should include the following: A Node class to represent each node in the list. A LinkedList class to manage the nodes, 
+with methods to: Add a node to the end of the list Print the list Delete the nth node (where n is a 1-based index) Include exception handling 
+to manage edge cases such as: Deleting a node from an empty list Deleting a node with an index out of range Test your implementation with at least one sample list.
