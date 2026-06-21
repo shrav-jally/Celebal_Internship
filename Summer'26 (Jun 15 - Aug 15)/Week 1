@@ -1,0 +1,26 @@
+Python Basics
+
+References:
+
+https://youtu.be/t2_Q2BRzeEE?si=NcERBfAPyiAxyih6 - Variables, Data Types, Operators, Loops (for/while), Control Flow (if-else)
+https://youtu.be/qVyvmzFxF_o?si=zVrZRA8QD4oj6Wky - Lists (indexing, slicing, iteration), Dictionaries (key-value operations, updates, iteration)
+https://youtu.be/ahNqJ6-FR5o?si=BICLJCE22HouBd-P - read_csv(), head(), info(), describe(), dataset structure
+https://youtu.be/N8eK-maHqVE?si=RkKShj2PGCDN9HcK - Filtering, grouping, aggregation, column creation, transformations
+https://youtu.be/suKHq3ZLPmU?si=dItlmV9tMVVkfzHW - Redundancy, Normalization basics
+https://youtu.be/E9WGC0SLPVs?si=i8kIu0QJeLrgVx7Y - Data loading, exploration, missing values handling, filtering, duplicate removal, derived column creation, saving CSV
+https://www.kaggle.com/datasets/anvitkumar/shopping-dataset - Shopping Dataset
+
+Assignment-1
+GitHub: https://github.com/shrav-jally/Celebal_Assignment1.git
+
+Topic: Basic Data Exploration and Cleaning using Pandas
+Task: Objective: Learn Python basics and perform basic data exploration and cleaning using Pandas. 
+Steps: 
+1. Load a CSV dataset into a Pandas DataFrame. 
+2. Explore data (head/tail, shape, columns, data types). 
+3. Handle missing values (identify, fill/drop). 
+4. Perform basic operations (filter rows, select columns). 
+5. Remove duplicates. 
+6. Create a derived column (total_amount = price * quantity). 
+7. Save the cleaned dataset as a new CSV file. 
+Output: Jupyter Notebook (.ipynb) + cleaned CSV + brief summary.
