@@ -1,0 +1,15 @@
+Clustering:
+
+References:
+
+https://www.youtube.com/watch?v=VqKq78PVO9g - Machine Learning Tutorial Python - 17: L1 and L2 Regularization | Lasso, Ridge Regression
+https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/ - 8 Clustering Algorithms in Machine Learning that All Data Scientists Should Know
+https://www.geeksforgeeks.org/machine-learning/a-comprehensive-guide-to-ensemble-learning/ - A Comprehensive Guide to Ensemble Learning
+https://www.kdnuggets.com/hyperparameter-tuning-gridsearchcv-and-randomizedsearchcv-explained - Hyperparameter Tuning: GridSearchCV and RandomizedSearchCV Explained
+
+Assignment-6
+GitHub: https://github.com/shrav-jally/Assignment-6.git
+
+Topic: Model Evaluation and Hyperparameter Tuning
+Task: Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. 
+Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. Analyze the results to select the best-performing model.
