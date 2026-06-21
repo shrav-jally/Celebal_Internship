@@ -1,0 +1,18 @@
+SQL Basics:
+
+References:
+
+https://docs.streamlit.io/
+https://machinelearningmastery.com/how-to-quickly-deploy-machine-learning-models-streamlit/
+https://www.microsoft.com/en-us/sql-server/sql-server-downloads - Installation of SQL Server
+https://www.w3schools.com/sql/sql_intro.asp - Introduction to SQL
+https://www.sqlservertutorial.net/getting-started/ - Getting started with SQL Server
+https://www.geeksforgeeks.org/sql/sql-ddl-dql-dml-dcl-tcl-commands/ - Overview of DDL, DML & TCL Commands
+https://www.sqlservertutorial.net/sql-server-basics/ - DDL SQL Server
+
+Assignment-7
+GitHub: https://github.com/shrav-jally/Assignment-7
+
+Topic: Deploying Machine Learning Models with Streamlit
+Task: Develop a web application using Streamlit to deploy a trained machine learning model. The app should allow users to input data, receive predictions, 
+and understand model outputs through visualizations. This task will help you learn how to make your models accessible and interactive.
