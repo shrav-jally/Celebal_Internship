@@ -1,2 +1,22 @@
 SQL Basics
 
+https://youtu.be/TDKoTItCVMU?si=a6QoytYhJlHe-BGC - SELECT, Primary Keys, Constraints
+https://youtu.be/cMUJFau5Wvg?si=sXj7I9sZ2Ldx_AZU - WHERE clause, Indexes
+https://youtu.be/FKSSOpQe5Jc?si=SMukWmeB9lTfXLhe - GROUP BY, SUM, COUNT, AVG, MIN, MAX
+https://youtu.be/aY7z4HcHm5M?si=WYv_uGiTu7GrMm9j - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, Foreign Keys
+https://youtu.be/C72qtLE9eVE?si=2CE9f-UU69d-Ya5O - CASE statements, ACID properties, Transactions
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final - Superstore Dataset Final
+
+Assignment
+GitHub: 
+
+Topic: SQL-based data analysis using filtering, aggregation, and basic business queries
+Task: Objective: Analyze sales data using SQL with filtering, aggregation, and business queries. 
+Steps: 
+1. Load dataset into a SQL database. 
+2. Explore table (schema, sample data). 
+3. Apply WHERE filters (region, category, date, sales). 
+4. Use GROUP BY for aggregations (sales, quantity, averages).
+5. Sort and limit results (top products, top categories). 
+6. Solve use cases (monthly trends, top customers, duplicates). 
+7. Validate results (row counts, data quality). Output: SQL script / Notebook + query results + brief insights.
