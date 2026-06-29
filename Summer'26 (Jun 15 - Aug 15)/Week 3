@@ -1,2 +1,22 @@
 Subqueries
 
+references
+https://youtu.be/EQbhKjBmW88?si=wYAtInM9gW5sPCCU - Subqueries in SELECT, WHERE, FROM
+https://youtu.be/QNfnuK-1YYY?si=V9uybCyjpSsFmgR4 - WITH clause, reusable query blocks
+https://youtu.be/Ww71knvhQ-s?si=sMAS9IAPcvlpWN3i - ROW_NUMBER(), RANK(), DENSE_RANK(), PARTITION BY, ORDER BY
+https://youtu.be/DeL3dgiy6vk?si=SPw5GQs8cVYqkUCX - Joins, Subqueries, CTEs, Window Functions on datasets
+https://youtu.be/pS8oMYHRcCc?si=4oU39vARTlbPBoXp - Key SQL concepts, syntax patterns, interview questions
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final - Superstore Dataset Final
+https://celebaltech.sharepoint.com/:w:/s/Celebal-LMS/IQCWMVcUnj73TIwEKov5Gb9lAfCEoSPfGEK8guscFuPLoSI?e=Paq82Y - Celebal LMS Resource
+
+Assignment
+GitHub: 
+
+Topic: Use Subqueries, CTEs, and Window Functions to analyze sales data from the Superstore dataset.
+Task: Objective: Analyze sales data using SQL by applying Subqueries, CTEs, and Window Functions to solve business queries. 
+Steps: Load Superstore dataset into a table (superstore_raw). 
+Create tables (customers, orders, products) from the dataset. 
+Insert data into these tables using SELECT DISTINCT. Apply subqueries to filter data (above average sales, highest order per customer). 
+Use CTEs to compute aggregations (total sales per customer). Apply window functions (ROW_NUMBER, RANK) for ranking and analysis. 
+Combine JOIN + CTE + Window Functions for final result (customer, total sales, rank). 
+Solve business queries (top customers, low customers, single-order customers, above-average sales). Output: SQL script / Notebook + query results + brief insights.
